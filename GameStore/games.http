@@ -3,7 +3,7 @@
 GET http://localhost:5274/games
 
 ###
-GET http://localhost:5274/games/2
+GET http://localhost:5274/games/6
 
 ###
 POST http://localhost:5274/games
@@ -15,5 +15,19 @@ Content-Type: application/json
   "genre": "Action",
   "releaseDate": "2021-01-01"
 }
+
+###
+PUT http://localhost:5274/games/3
+Content-Type : application/json
+
+{
+  "name": "Game which have been updateded",
+  "price": 3000.0,
+  "genre": "fun",
+  "releaseDate": "2021-01-01"
+}
+
+###
+DELETE http://localhost:5274/games/3  
 
 

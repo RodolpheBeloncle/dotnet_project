@@ -1,6 +1,3 @@
-namespace GameStore.Dtos
+namespace GameStore.Dtos;
 
-public record class UpdateGameDto
-{
-
-}
+public record UpdateGameDto(string Name, string Genre, decimal Price, DateOnly ReleaseDate);
