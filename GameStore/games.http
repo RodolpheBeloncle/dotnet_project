@@ -1,1 +1,19 @@
+
+
 GET http://localhost:5274/games
+
+###
+GET http://localhost:5274/games/2
+
+###
+POST http://localhost:5274/games
+Content-Type: application/json
+
+{
+  "name": "Game 3",
+  "price": 30.0,
+  "genre": "Action",
+  "releaseDate": "2021-01-01"
+}
+
+
