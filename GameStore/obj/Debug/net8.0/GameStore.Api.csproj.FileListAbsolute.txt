@@ -1,0 +1,2 @@
+C:\Users\33647\source\repos\GameStore\GameStore\bin\Debug\net8.0\GameStore.Api.exe
+C:\Users\33647\source\repos\GameStore\GameStore\bin\Debug\net8.0\GameStore.Api.dll
