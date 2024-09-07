@@ -22,3 +22,6 @@ https://learn.microsoft.com/fr-fr/windows/dev-environment/javascript/nodejs-on-w
  .nvm list available
  .nvm install <version>
  .nvm use <version>
+
+=> utilise npm inclu avec node.js ou yarn:
+npm install --global yarn
