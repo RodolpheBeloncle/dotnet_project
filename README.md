@@ -14,3 +14,10 @@ puis taper la commande :  Add-WindowsCapability -Online -Name OpenSSH.Client*
 
 ## Installation sur Node.js & Npm & Nvm
 https://learn.microsoft.com/fr-fr/windows/dev-environment/javascript/nodejs-on-windows#install-nvm-windows-nodejs-and-npm
+
+=> Dans powershell install 
+ nvm install latest
+
+ NB **install node version**
+ .nvm list available
+ .nvm install <version>
