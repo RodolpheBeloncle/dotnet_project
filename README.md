@@ -21,3 +21,4 @@ https://learn.microsoft.com/fr-fr/windows/dev-environment/javascript/nodejs-on-w
  NB **install node version**
  .nvm list available
  .nvm install <version>
+ .nvm use <version>
