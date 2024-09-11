@@ -32,5 +32,13 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 Download SSMS
 Download SQL Server Management Studio (SSMS) 20.2
 -----------------------------------------------
+
+## installation IDE
+- github trust pilote
+- linter csharp
+- sonarlint
 # Creation frontend avec vue.js
 npm create vue@latest
+
+
+
